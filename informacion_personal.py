@@ -6,7 +6,7 @@ informacion_personal = {"nombre": "Evelyn", "edad": 18, "ciudad": "Esmeraldas", 
 # Acceso a los datos y modifica
 informacion_personal["ciudad"] = "Ibarra"
 
-# Agregar una nueva clave-valor para la profesión
+# Agregar una nuevo valor a la profesión
 informacion_personal["profesion"] = "Comerciante"
 
 # Añadir un dato
